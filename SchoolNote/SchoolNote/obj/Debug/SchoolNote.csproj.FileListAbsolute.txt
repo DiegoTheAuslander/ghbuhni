@@ -1,0 +1,15 @@
+D:\MyBotepad\SchoolNote\SchoolNote\bin\Debug\SchoolNote.exe.config
+D:\MyBotepad\SchoolNote\SchoolNote\bin\Debug\SchoolNote.exe
+D:\MyBotepad\SchoolNote\SchoolNote\bin\Debug\SchoolNote.pdb
+D:\MyBotepad\SchoolNote\SchoolNote\obj\Debug\SchoolNote.csproj.AssemblyReference.cache
+D:\MyBotepad\SchoolNote\SchoolNote\obj\Debug\SchoolNote.csproj.SuggestedBindingRedirects.cache
+D:\MyBotepad\SchoolNote\SchoolNote\obj\Debug\SchoolNote.Form1.resources
+D:\MyBotepad\SchoolNote\SchoolNote\obj\Debug\SchoolNote.Properties.Resources.resources
+D:\MyBotepad\SchoolNote\SchoolNote\obj\Debug\SchoolNote.csproj.GenerateResource.cache
+D:\MyBotepad\SchoolNote\SchoolNote\obj\Debug\SchoolNote.csproj.CoreCompileInputs.cache
+D:\MyBotepad\SchoolNote\SchoolNote\obj\Debug\SchoolNote.exe
+D:\MyBotepad\SchoolNote\SchoolNote\obj\Debug\SchoolNote.pdb
+D:\MyBotepad\SchoolNote\SchoolNote\obj\Debug\SchoolNote.Resources.DarkMain.resources
+D:\MyBotepad\SchoolNote\SchoolNote\bin\Debug\FastColoredTextBox.dll
+D:\MyBotepad\SchoolNote\SchoolNote\obj\Debug\SchoolNote.Resources.Rechner.resources
+D:\MyBotepad\SchoolNote\SchoolNote\obj\Debug\SchoolNote.csproj.CopyComplete

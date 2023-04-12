@@ -1,0 +1,34 @@
+Aufgabenstellung: die IP:       192.168.254.0
+                  In 3 Subnetz teilen, 2 subnetz mit 62 Netzwerkanschlusse und 1 subnetz mit 126 Netzwerkanschlusse
+                  
+                  
+                  
+                  
+11000000.10101000.11111110.00|000000  Erster host:  000001            Letzter Host:111110
+           
+ Broatcastadresse:111111
+            
+            
+            
+ 11000000.10101000.11111110.01|000000 Erster host:  000001            Letzter Host:      111110      
+
+ Broatcastadresse:111111
+
+
+
+
+ 11000000.10101000.11111110.1|0000000  Erster host:0000001              Letzter Host:  1111110         
+
+ Broatcastadresse:1111111
+ 
+ 
+ 
+ b)192.168.254.0        192.168.254.63
+   192.168.254.64       192.168.254.127
+   192.168.254.128      192.168.254.255
+   
+   
+   
+   c)192.168.254.1      192.168.254.62
+     192.168.254.65     192.168.254.126
+     192.168.254.129    192.168.254.254
